@@ -18,7 +18,7 @@ This should open a local webpage in your browser at http://127.0.0.1:9000/ with 
 
 
 # Development 
-The above project package.json file was generated using the below commands. 
+This project's package.json file was generated using the below commands. 
 ```
 npm init -y
 npm install -D babel-loader @babel/core @babel/preset-env webpack
